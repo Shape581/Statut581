@@ -1,3 +1,5 @@
+![GitHub all releases](https://img.shields.io/github/downloads/Shape581/Statut581/total)
+
 # :zap: Statut581 V1.0
 
 Statut581 est un plugin permettant au entreprise d'annoncer leurs ouverture et fermeture.
