@@ -6,10 +6,15 @@ Statut581 est un plugin permettant au entreprise d'annoncer leurs ouverture et f
 
 # :wrench: Fonctionnalité
 
-- Message d'ouverture d'entreprise (activable via AAMenu -> Métier).
- - Exemple de message : *[OUVERTURE] L'entreprise [Nom de l'entreprise] est désormais ouverte.*
-- Message de fermeture d'entreprise (activable via AAMenu -> Métier).
- - Exemple de message : *[FERMETURE] L'entreprise [Nom de l'entreprise] est désormais fermé.*
+- Message d'ouverture d'entreprise (activable via AAMenu -> Métier OU /f /fermeture).
+  - Exemple de message : *[OUVERTURE] L'entreprise [Nom de l'entreprise] est désormais ouverte.*
+
+- Message de fermeture d'entreprise (activable via AAMenu -> Métier OU /o /ouverture).
+  - Exemple de message : *[FERMETURE] L'entreprise [Nom de l'entreprise] est désormais fermé.*
+
+- Annuaire des entreprise (Accessible via le AAMenu -> Document -> Annuaire des entreprise)
+  - Répertorie toute les entreprise présente sur le serveur
+  - Ajout d'un bouton d'information pour obtenir différente information comme les information de contact, recrutement, salaire et d'autre.
 
 # :electric_plug:  Installation
 
